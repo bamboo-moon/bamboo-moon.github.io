@@ -4,7 +4,7 @@
 
 - 计算机网络TCP从rdt1.0到Reno(https://blog.csdn.net/2301_79234464/article/details/157574865)
 
-- 联想电脑商城-软件工程项目(https://github.com/newbeginnerlzh/leading_end)、(https://github.com/PYL1024/online-mall-admin)
+- 联想电脑商城-软件工程项目(https://github.com/newbeginnerlzh/leading_end) 、 (https://github.com/PYL1024/online-mall-admin)
 
 - 人工智能六子棋对弈AI开发(https://github.com/PYL1024/intro-to-ai-connect6)
 
