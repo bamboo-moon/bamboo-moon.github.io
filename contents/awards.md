@@ -1,12 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 中国海洋大学优秀学生, 2024 & 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 中国海洋大学二等奖学金, 2024 & 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 第十四届亚太地区大学生数学建模竞赛APMCM三等奖, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- 第十六届蓝桥杯C/C++ A组省级三等奖, 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 第七届全国高校计算机能力挑战赛(C++科目)全国决赛本研组三等奖, 2026.
