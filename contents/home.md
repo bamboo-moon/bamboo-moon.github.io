@@ -2,7 +2,7 @@
 目前就读于中国海洋大学，专业计算机科学与技术。
 
 #### Github
-bamboo_moon(https://github.com/senli1073)
+bamboo_moon(https://github.com/bamboo-moon)
 
 #### CSDN博客账号
 bamboo_moon(https://blog.csdn.net/2301_79234464)
