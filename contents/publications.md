@@ -1,6 +1,6 @@
 #### 项目经历
 
-- 青软ITOffer Javaweb项目(https://blog.csdn.net/2301_79234464/article/details/158210717)
+- 青软ITOffer Javaweb项目(https://github.com/bamboo-moon/Qingruan-IToffer)
 
 - 计算机网络TCP从rdt1.0到Reno(https://blog.csdn.net/2301_79234464/article/details/157574865)
 
