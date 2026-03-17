@@ -6,7 +6,7 @@
 
 - 联想电脑商城-软件工程项目(https://github.com/newbeginnerlzh/leading_end) 、 (https://github.com/PYL1024/online-mall-admin)
 
-- 人工智能导论-N-Puzzle问题求解
+- 人工智能导论-N-Puzzle问题求解(https://github.com/bamboo-moon/N-Puzzle)
 
 - 人工智能导论-六子棋对弈AI开发(https://github.com/PYL1024/intro-to-ai-connect6)
 
